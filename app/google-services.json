@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459718069563",
+    "project_id": "fir-radiobutton-c765a",
+    "storage_bucket": "fir-radiobutton-c765a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459718069563:android:495bbeb74acf12c2713b1e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseradiobutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459718069563-11duetogsinea70gfku460tmdo735gr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSg6BehVnckXkyAQALYZu2nNwVx02a1LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459718069563-11duetogsinea70gfku460tmdo735gr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
